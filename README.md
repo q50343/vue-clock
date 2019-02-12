@@ -1,4 +1,4 @@
 # clock
 
-## deme
+## demo
 http://abnormal-day.surge.sh/
